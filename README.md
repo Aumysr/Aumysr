@@ -1,4 +1,4 @@
-- Hello, It's Rawi. I’m currently learning Web system development and interested in full stack approach.
+- Hello, you have got Rawi here. I’m currently learning Web system development and interested in full stack approach.
 - 📫 How to reach me rawiwanysr@outlook.com 👩🏽
 
 <!---
