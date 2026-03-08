@@ -10,7 +10,7 @@
 ```
 
 ### **RAWIWAN YAMSUMRUAL**
-#### Full-Stack Developer · AI/LLM Engineer · Web Analyst
+#### Web Analyst levelling up to Full-Stack · AI/LLM Builder  
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rawifolio.com-0f172a?style=for-the-badge)](https://rawifolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rawiwan--y-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rawiwan-y)
@@ -41,7 +41,7 @@ Built a content intelligence platform that extracts key insights, evaluates qual
 
 `Python` `FastAPI` `React` `LLM` `OpenAI API`
 
-[![Demo](https://img.shields.io/badge/Live_Demo-▶-22c55e?style=flat-square)](https://github.com/Aumysr) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Aumysr)
+[![Demo](https://img.shields.io/badge/Live_Demo-▶-22c55e?style=flat-square)](https://youtu.be/gd6TtElpEg4?si=uTZHf9P6OBO4MmY0) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Aumysr)
 
 ---
 
@@ -52,7 +52,7 @@ Generates SEO-optimized blog posts based on user prompts using Cloudflare Worker
 
 `Cloudflare Workers` `OpenAI API` `Serverless` `JavaScript`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-▶-22c55e?style=flat-square)](https://github.com/Aumysr)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-▶-22c55e?style=flat-square)](https://rawifolio.com/projects)
 
 ---
 
@@ -63,7 +63,7 @@ Helps users structure their day with AI assistance — built on Cloudflare Worke
 
 `Cloudflare Workers` `AI Automation` `JavaScript`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-▶-22c55e?style=flat-square)](https://github.com/Aumysr)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-▶-22c55e?style=flat-square)](https://rawifolio.com/projects)
 
 
 ---
