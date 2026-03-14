@@ -115,7 +115,7 @@ Investigating structured communication patterns between AI models and external t
 ## 💼 Work Experience
 
 ```
-WhistleOut Pty Ltd  ·  Web Analyst                        2024 – Present
+WhistleOut Pty Ltd  ·  Support Engineer and Analyst    2024 – Present
 ├── React/TypeScript production frontend (high-traffic affiliate platform)
 ├── E2E automated test suites with Playwright
 ├── CI/CD pipelines via TeamCity + Octopus Deploy
